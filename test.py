@@ -8,3 +8,5 @@ subprocess.run(["git", "commit", "-m", "git INIT"], check=True)
 
 # Run git push
 subprocess.run(["git", "push"], check=True)
+
+print("hel")
